@@ -1,1 +1,1 @@
-# Hackathon-Novosibirsk: Novosibirsk Championship
+# Hackathon-Novosibirsk
